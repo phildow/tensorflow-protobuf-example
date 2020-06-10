@@ -7,6 +7,7 @@
 //
 
 import XCTest
+import TensorIO
 
 @testable import TensorFlowProtobufExample
 

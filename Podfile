@@ -11,7 +11,7 @@ target 'TensorFlowProtobufExample' do
   # Pods for TensorFlowProtobufExample
 
   target 'TensorFlowProtobufExampleTests' do
-    inherit! :search_paths
+    # inherit! :search_paths
     # Pods for testing
   end
 
